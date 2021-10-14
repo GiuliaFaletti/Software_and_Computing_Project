@@ -1,6 +1,6 @@
 # How To Run
 
-## 1) Download the zipped project:
+## 1) Download the zipped project
 
 You need to download the file from the repository of GitHub.
 Click on the green button "Code" and than click on "Download ZIP".
