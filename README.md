@@ -1,7 +1,8 @@
 # Software_and_Computing_Project
 Software and Computing Project - Luminosity Extrapolation.
+@Giulia Faletti
 
-### List of the folders in the repository
+### List of the folders in the repository:
 -[How to Run] (https://github.com/GiuliaFaletti/Software_and_Computing-LuminosityExtrapolation/blob/main/1_README_HowToRun.md): this ReadMe file contains explanation on how run the project.
 
 -[Explanations] (https://github.com/GiuliaFaletti/Software_and_Computing-LuminosityExtrapolation/blob/main/0_README_ProjectExplanations.md): this ReadMe file gives a general overview on how the aim of the project, how it is organized, and moreover gives a brief explanation on each code file, input and output file present in the project.
