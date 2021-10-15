@@ -13,8 +13,11 @@ the utility tool will do the job for you, you just have to click on the zipped f
 ## 3) Run the program
 
 Now you are ready to run the program. Enter on the bash the position of the downloaded folder:
+
 'cd path/Software_and_Computing_Project-main'
+
 Then tip on the bash:
+
 - 'python FillsLuminosityEvolution.py' if you want to produce the run 2 luminosity evolution plots;
 - 'python FillsLuminosityEvolution_parallel.py' for the parallelized verision;
 - 'python Opt_MeasuredLumi_Extrapolation.py' if you want to produce the extrapolated plots for the integrated luminosity optimization;
