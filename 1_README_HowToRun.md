@@ -14,7 +14,7 @@ the utility tool will do the job for you, you just have to click on the zipped f
 
 Now you are ready to run the program. Enter on the bash the position of the downloaded folder:
 
-'cd path/Software_and_Computing_Project-main'
+'cd path/Software_and_Computing_Project-main/Project'
 
 Then tip on the bash:
 
