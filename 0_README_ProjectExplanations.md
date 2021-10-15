@@ -37,7 +37,9 @@ In the **Project folder** are present different programs, input and output files
  13. _RUN 2 Optimized Measured Total Luminosities.txt_: Output file with 2016, 2017 and 2018 values of total luminosity.
 
  -------------------------------- **Data Folder** ---------------------------------------------------
+ 
  14. ATLAS:
+ 
  -------------------------- *Input Floders* ---------------------------------------------------
  - ATLAS_fill_2016: Atlas lumi files for 2016, whose detailed description is available on [https://lpc.web.cern.ch/MassiFileDefinition_v2.htm].
  - ATLAS_fill_2017: Atlas lumi files for 2017, whose detailed description is available on [https://lpc.web.cern.ch/MassiFileDefinition_v2.htm];
@@ -50,6 +52,6 @@ In the **Project folder** are present different programs, input and output files
  - FillsLuminosityEvolution2016: Plots of the Luminosity evolution of 2016;
  - FillsLuminosityEvolution2017: Plots of the Luminosity evolution of 2017;
  - FillsLuminosityEvolution2018: Plots of the Luminosity evolution of 2018;
- - OptimalFillsLuminosityEvolution2016: Hypoteticl fill plots of the Luminosity evolution of 2016;
- - OptimalFillsLuminosityEvolution2017: Hypoteticl fill plots of the Luminosity evolution of 2017;
- - OptimalFillsLuminosityEvolution2018: Hypoteticl fill plots of the Luminosity evolution of 2018.
+ - OptimalFillsLuminosityEvolution2016: Hypotetical fill plots of the Luminosity evolution of 2016;
+ - OptimalFillsLuminosityEvolution2017: Hypotetical fill plots of the Luminosity evolution of 2017;
+ - OptimalFillsLuminosityEvolution2018: Hypotetical fill plots of the Luminosity evolution of 2018.
