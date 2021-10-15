@@ -13,6 +13,7 @@ In this code, we have an important part of the thesis work, whose aim is to unde
 In the **Project folder** are present different programs, input and output files:
 
  -------------------------- **Code Files** --------------------------------------------------------------------------------------------------
+ 
  1. *FillsLuminosityEvolution.py*: Code that extracts from ATLAS_fill_{year} the Luminosity and Time arrays and plots them on the y and x-axis, saving them in FillsLuminosityEvolution{year};
 
  2. *FillsLuminosityEvolution_parallel.py*: Parallelized code that extracts from ATLAS_fill_{year} the Luminosity and Time arrays and plots them on the y and x-axis, saving them in FillsLuminosityEvolution{year};
@@ -26,10 +27,12 @@ In the **Project folder** are present different programs, input and output files
  6. *Opt_MeasuredLumi_Extrapolation_parallel.py*: Parallelized code that extracts from ATLAS_fill_{year} the Luminosity and Time arrays, compares the length of each fill with the optimal fill time and decides if it is necessary to extrapolate or not. If extrapolation is needed, performs it using a double exponential fit (making sure that that the function always decrease). Then the code plots the resulting luminosity evolution in OptimalFillsLuminosityEvolution{year} and evaluates the integrated luminosity for each fill, saving them in _{year} Optimized Measured Integrated Luminosity.txt_, and the total luminosity for each year, saving them in _RUN 2 Optimized Measured Total Luminosities.txt_.
 
  --------------------------- **Input Files** ---------------------------------------------------
+ 
  7. _FillData.xlsx_: Excel file with turnaround times and fill times for each year (t16, tf16, ta17, tf17, ta18, tf18), fills numbers (NrFill_2016, NrFill_2017, Nr_fill2018) and statistical samples of turn around times (sample16, sample17, sample18);
  8. _TurnAroundData.xlsx_: Excel file with sorted statistical samples of turn around times (sample16, sample17, sample18).
 
  -------------------------- **Output Files** ---------------------------------------------------
+ 
  9. _Optimized Measured Integrated Luminosity.xlsx_: Excel output file divided into six sheet, three for the integrated luminosities called {year} Integrated Luminosity, and three for the total luminosity called {year} Total Luminosity;
  10. _2016 Optimized Measured Integrated Luminosity.txt_: Output file with 2016 values of integrated luminosity;
  11. _2017 Optimized Measured Integrated Luminosity.txt_: Output file with 2017 values of integrated luminosity;
@@ -41,6 +44,7 @@ In the **Project folder** are present different programs, input and output files
  14. ATLAS:
  
  -------------------------- *Input Floders* ---------------------------------------------------
+ 
  - ATLAS_fill_2016: Atlas lumi files for 2016, whose detailed description is available on [https://lpc.web.cern.ch/MassiFileDefinition_v2.htm].
  - ATLAS_fill_2017: Atlas lumi files for 2017, whose detailed description is available on [https://lpc.web.cern.ch/MassiFileDefinition_v2.htm];
  - ATLAS_fill_2018: Atlas lumi files for 2018, whose detailed description is available on [https://lpc.web.cern.ch/MassiFileDefinition_v2.htm];
