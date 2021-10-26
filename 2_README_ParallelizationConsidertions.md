@@ -5,4 +5,4 @@ The codes present in the project must process different plots, which will certai
 The code gives the **runtime** (this can change a bit for every run because of the background processes in the cores), which in the sequential case is around 23 seconds, while in the parallelized one is around 7 seconds. This gives a _speedup_ (S) of around 3.3.
 
 ## 2) Opt_MeasuredLumi_Extrapolation
-The code gives the **runtime** (this can change a bit for every run because of the background processes in the core), which in the sequential case is around 32 seconds, while in the parallelized one is around 12 seconds. This gives a _speedup_ (S) of around 2.7.
+The code gives the **runtime** (this can change a bit for every run because of the background processes in the core), which in the sequential case is around 33 seconds, while in the parallelized one is around 11 seconds. This gives a _speedup_ (S) of around 3.
