@@ -5,6 +5,7 @@ The codes present in the project must process different plots, which will certai
 The code gives the **runtime**, which in the sequential case is around 23 seconds, while in the parallelized one is around 7 seconds. This gives a _speedup_ (S) of around 3.3.
 
 |# Processor|runtime[s]|speedup|
+|---|---|---|
 |1|23||
 |2|13.28|S_{1/2}=23/13.28=1.73|
 |3|9.61|S_{1/3}=23/9.61=2.39|
@@ -20,6 +21,7 @@ The code gives the **runtime**, which in the sequential case is around 23 second
 The code gives the **runtime**, which in the sequential case is around 33 seconds, while in the parallelized one is around 11 seconds. This gives a _speedup_ (S) of around 3.
 
 |# Processor|runtime[s]|speedup|
+|---|---|---|
 |1|44||
 |2|38.43|S_{1/2}=44/38.43=1.14|
 |3|23.83|S_{1/3}=44/23.83=1.85|
