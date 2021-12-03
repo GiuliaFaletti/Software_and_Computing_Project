@@ -8,7 +8,7 @@ Software and Computing Project - Luminosity Extrapolation.
 
 -[Explanations](https://github.com/GiuliaFaletti/Software_and_Computing_Project/blob/main/0_README_ProjectExplanations.md): this ReadMe file gives a general overview on the aim of the project, how it is organized, and moreover gives a brief explanation on each code file, input and output file present in the project.
 
--[Parallelization](https://github.com/GiuliaFaletti/Software_and_Computing-LuminosityExtrapolation/blob/main/2_README_ParallelizationConsidertions.md): this ReadMe contains some considerations on the parallelization of the codes.
+-[Parallelization](https://github.com/GiuliaFaletti/Software_and_Computing_Project/blob/main/2_README_ParallelizationConsidertions.md): this ReadMe contains some considerations on the parallelization of the codes.
 
 -[Notes](https://github.com/GiuliaFaletti/Software_and_Computing_Project/blob/main/Concepts_of_Integrated_Luminosity_Optimization_Strategy.pdf): this file
 contains some notes on the luminosity optimization strategy.
